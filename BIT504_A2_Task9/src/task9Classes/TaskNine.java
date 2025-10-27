@@ -6,7 +6,7 @@ public class TaskNine {
 		
 		System.out.println("This is for the Task9 activity");
 		
-		System.out.println("\nI have to commit two changes to new branches");
+		System.out.println("\nThis is the first branch commit.");
 
 	}
 
